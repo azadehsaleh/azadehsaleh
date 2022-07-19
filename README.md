@@ -3,7 +3,7 @@
 - 👀 I’m interested in designing and developing websites and maintaining applications.
 - 🌱 I’m currently pursuing Mobile Application Development & Strategy program at George Brown College.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azadehsaleh&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azadehsaleh&theme=synthwave&show_icons=true)
 
 - 📫 You can reach me out through my email: azadeh.kohan.saleh@gmail.com or Linkedin: https://www.linkedin.com/in/azadehsaleh/
 

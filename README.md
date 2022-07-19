@@ -4,6 +4,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azadehsaleh&theme=synthwave&show_icons=true)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azadehsaleh)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 📫 You can reach me out through my email: azadeh.kohan.saleh@gmail.com or Linkedin: https://www.linkedin.com/in/azadehsaleh/
 
 <!---

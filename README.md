@@ -2,6 +2,7 @@
 - I have hands-on experience in HTML5, CSS, JavaScript, MySQL and Angular to build all aspects of the user experience and user interface for client-facing landing pages and dashboard panels.
 - 👀 I’m interested in designing and developing websites and maintaining applications.
 - 🌱 I’m currently pursuing Mobile Application Development & Strategy program at George Brown College.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azadehsaleh&hide=contribs,prs)
 - 📫 You can reach me out through my email: azadeh.kohan.saleh@gmail.com or Linkedin: https://www.linkedin.com/in/azadehsaleh/
 
 <!---

@@ -3,9 +3,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azadehsaleh&theme=tokyonight&show_icons=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azadehsaleh&theme=tokyonight)
-
-
 
 
 - 📫 You can reach me out:
